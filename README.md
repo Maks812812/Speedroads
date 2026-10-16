@@ -40,3 +40,6 @@ Follow these steps to install the extension manually:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+
+(remade this so it works with newer slowroads website)
