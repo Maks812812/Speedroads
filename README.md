@@ -13,8 +13,7 @@ A Chrome extension that allows users to modify the vehicle speed setting in the 
 Follow these steps to install the extension manually:
 
 1. Download the repository as a ZIP:
-   - Click the green **Code** button at the top-right of this page.
-   - Select **Download ZIP** and save it to your computer.
+   - Download the New-Speedroads-main.zip file
    
 2. Extract the ZIP file:
    - Unzip the downloaded file to get a folder containing the extension files.
